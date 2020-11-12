@@ -1,0 +1,2 @@
+# DynamicscreenManagement
+Dynamic screen Management
